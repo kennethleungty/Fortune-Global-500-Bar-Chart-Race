@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data Files to ignore
+Fortune 500 Global (By Company).xlsx
+Fortune 500 Global (By Year) Original.xlsx
+
+
 # C extensions
 *.so
 
