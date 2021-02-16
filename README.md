@@ -1,11 +1,11 @@
 # Fortune Global 500 - Bar Chart Race
 
-Link to Medium article: 
+Link to Medium article: https://towardsdatascience.com/the-fortune-500-bar-chart-race-9612dc9d0e63
 
 **Introduction**  
-Companies rise and fall amidst the intense and ruthless global competition, so it would be fascinating to visualize the progress of the top global firms over the past few decades.   
+Companies rise and fall amidst the intense and ruthless global competition, thus it would be fascinating to visualize the progress of the top global firms over the past few decades
 
-The Fortune Global 500 is an annual ranking of the top 500 corporations worldwide as measured by revenue, and it serves as a great source of data for running visual analysis to glean insights. I figured it would also be fun to try my hand at creating animated visualizations like a bar chart race.  
+The Fortune Global 500 is an annual ranking of the top 500 corporations worldwide as measured by revenue, and it serves as a good source of data for running visual analysis. I figured it would also be an enriching learning experience to create animations (like a bar chart race) using code (Python) and no-code (Flourish) solutions.
 ___
 
 **Motivation**  
