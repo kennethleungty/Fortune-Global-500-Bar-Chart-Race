@@ -9,7 +9,7 @@ The Fortune Global 500 is an annual ranking of the top 500 corporations worldwid
 ___
 
 **Motivation**  
-- Interest in finding out more about Fortune Global 500 companies (after recently taking on a data scientist role in a Fortune 500 firm)  
+- Interested to find out more about Fortune Global 500 companies (after recently taking on a data scientist role in a Fortune 500 firm)  
 - Keen to explore how to create interactive visualizations (in particular, a bar chart race) using code and no-code solutions  
 ___
 
