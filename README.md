@@ -14,6 +14,7 @@ ___
 ___
 
 **Details**  
-- The Jupyter notebook contains the Python code for pre-processing and formating the Fortune Global 500 dataset, as well as the creation of the bar chart race animation using the bar-chart-race package
+- The Jupyter notebook contains the Python code for pre-processing and formating the Fortune Global 500 dataset, as well as the creation of the bar chart race animation using the `bar-chart-race` package
+- The notebook also contains code for the data visualization to derive the additional insights of the Fortune 500 lists
 - The Flourish bar chart race visualization (public version) can be found here: https://public.flourish.studio/visualisation/5287940/
-- Feel free to drop me a message on LinkedIn (https://linkedin.com/in/kennethleungty) if you are interested in having a copy of full revenue and rank dataset
+- Feel free to drop me a message on LinkedIn (https://linkedin.com/in/kennethleungty) if you are interested in obtaining a copy of entire revenue and rank dataset (for all companies over all 26 years)
